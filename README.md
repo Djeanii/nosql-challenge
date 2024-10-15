@@ -1,5 +1,7 @@
 # nosql-challenge
+
 UK Food Establishment Hygiene Ratings - Data Analysis Project
+
 Overview
 In this project, I analyzed food hygiene ratings from establishments across the UK, with the data sourced from the UK Food Standards Agency. The goal of the project is to help a food magazine, Eat Safe, Love, evaluate and recommend food establishments. This was done by creating a MongoDB database, cleaning the data, and performing exploratory analysis to answer specific queries about food establishments.
 
@@ -58,5 +60,6 @@ PyMongo: Python library for MongoDB interactions.
 Pandas: Used for data manipulation and analysis.
 Pretty Print (pprint): For better readability of JSON-like data in Python.
 Jupyter Notebook: For writing and running the Python code in an interactive environment.
+
 Conclusion
 Through this project, I was able to clean and analyze food hygiene data effectively, helping the magazine to identify areas of interest. Using MongoDB and Python, I demonstrated the full cycle of working with NoSQL databases—importing data, updating it, and running complex queries to derive insights.
